@@ -1,8 +1,8 @@
-# Your Name Here
+# Meshref alomar
 # UWYO COSC 1010
-# Submission Date
+# Submission Date 09/24/2024
 # Lab 03 
-# Lab Section: 
+# Lab Section: 11
 # Sources, people worked with, help given to: 
 # your
 # comments
